@@ -28,6 +28,6 @@
   "dependencies": {
     "react-docgen": "^2.9.1",
     "shelljs": "^0.7.0",
-    "yargs": "^4.7.1"
+    "yargs": "^13.1.0"
   }
 }
