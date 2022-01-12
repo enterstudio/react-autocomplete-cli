@@ -27,7 +27,7 @@
   "homepage": "https://github.com/DavidWells/react-autocomplete-cli#readme",
   "dependencies": {
     "react-docgen": "^2.9.1",
-    "shelljs": "^0.7.0",
+    "shelljs": "^0.8.5",
     "yargs": "^4.7.1"
   }
 }
